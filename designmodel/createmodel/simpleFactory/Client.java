@@ -9,6 +9,10 @@ public class Client {
         hChart.display();
         lChart.display();
         PChart.display();
+
+        String type = XMLUtil.getChartType();
+        Chart chart = ChartFactory.getChart(type);
+        chart.display();
     }
 
 }
