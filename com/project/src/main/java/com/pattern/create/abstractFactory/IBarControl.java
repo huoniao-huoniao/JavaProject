@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.create.abstractFactory;
+package com.pattern.create.abstractFactory;
 
 //滚动条样式
 public interface IBarControl {

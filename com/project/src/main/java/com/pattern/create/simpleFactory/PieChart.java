@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.create.simpleFactory;
+package com.pattern.create.simpleFactory;
 
 public class PieChart extends Chart {
 

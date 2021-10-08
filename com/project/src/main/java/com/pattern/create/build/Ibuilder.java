@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.create.build;
+package com.pattern.create.build;
 
 public interface Ibuilder {
 

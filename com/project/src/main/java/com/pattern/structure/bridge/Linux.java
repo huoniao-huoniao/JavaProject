@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.structure.bridge;
+package com.pattern.structure.bridge;
 
 public class Linux implements OS {
 
@@ -10,7 +10,6 @@ public class Linux implements OS {
 
     @Override
     public void doPaint() {
-        // TODO Auto-generated method stub
         System.out.println("linux操作系统");
         _image.Drawing();
     }

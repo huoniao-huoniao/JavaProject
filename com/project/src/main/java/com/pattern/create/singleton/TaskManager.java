@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.create.singleton;
+package com.pattern.create.singleton;
 
 //任务管理器
 public class TaskManager {

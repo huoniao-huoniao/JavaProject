@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.structure.bridge;
+package com.pattern.structure.bridge;
 
 public interface OS {
 

@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.create.abstractFactory;
+package com.pattern.create.abstractFactory;
 
 public class SummerFactory implements IAbstractFactory {
 

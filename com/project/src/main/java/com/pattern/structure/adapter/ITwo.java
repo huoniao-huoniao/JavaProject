@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.structure.adapter;
+package com.pattern.structure.adapter;
 
 public interface ITwo {
     void TwoMethod();

@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.structure.bridge;
+package com.pattern.structure.bridge;
 
 public class Windows implements OS {
 
@@ -10,7 +10,6 @@ public class Windows implements OS {
 
     @Override
     public void doPaint() {
-        // TODO Auto-generated method stub
         System.out.println("window操作系统");
         _image.Drawing();
     }

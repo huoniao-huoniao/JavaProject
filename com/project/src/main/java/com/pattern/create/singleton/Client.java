@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.create.singleton;
+package com.pattern.create.singleton;
 
 public class Client {
     public static void main(String[] args) {

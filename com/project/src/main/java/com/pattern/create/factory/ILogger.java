@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.create.factory;
+package com.pattern.create.factory;
 
 public interface ILogger {
     void write(String message);

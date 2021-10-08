@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.structure.adapter;
+package com.pattern.structure.adapter;
 
 public class Two implements ITwo {
     public void A() {

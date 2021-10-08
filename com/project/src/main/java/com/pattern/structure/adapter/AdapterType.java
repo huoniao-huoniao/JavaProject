@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.structure.adapter;
+package com.pattern.structure.adapter;
 
 public class AdapterType implements IThree {
 

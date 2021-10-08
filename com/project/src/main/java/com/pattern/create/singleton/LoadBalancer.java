@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.create.singleton;
+package com.pattern.create.singleton;
 
 import java.util.ArrayList;
 import java.util.List;

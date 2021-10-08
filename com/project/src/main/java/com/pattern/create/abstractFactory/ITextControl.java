@@ -1,4 +1,4 @@
-package JavaProject.com.liubb.create.abstractFactory;
+package com.pattern.create.abstractFactory;
 
 public interface ITextControl {
     void showText();
