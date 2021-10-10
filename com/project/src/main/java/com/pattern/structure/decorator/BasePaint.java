@@ -1,14 +1,17 @@
 package com.pattern.structure.decorator;
 
-public abstract class Paint {
+/**
+ * @author liubb
+ */
+public abstract class BasePaint {
     private String paintName;
 
-    public Paint() {
+    public BasePaint() {
     }
 
     public abstract void display();
 
-    public void GetName() {
+    public void getName() {
         System.out.println(this.paintName);
     }
 
