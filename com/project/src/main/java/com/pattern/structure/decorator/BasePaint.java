@@ -1,8 +1,5 @@
 package com.pattern.structure.decorator;
 
-/**
- * @author liubb
- */
 public abstract class BasePaint {
     private String paintName;
 
